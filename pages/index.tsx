@@ -2,17 +2,7 @@ import Link from "next/link";
 import Layout from "../components/Layout";
 
 const IndexPage = () => (
-  <Layout title="Coming Soon - Clean Coming Soon Page (Tailwind CSS, NextJs & HTML5) created by themeptation.net">
-    <img
-      src="/images/xera.svg"
-      alt="Themeptation "
-      className="absolute h-96 -top-20 -right-16 lg:right-5 lg:top-10 animate-blob"
-    />
-    <img
-      src="/images/shapes.svg"
-      alt="hero"
-      className="absolute w-full left-24 bottom-24 animate-blob2"
-    />
+  <Layout title="South Atlantic Technology Partners LLC">
     <div className="relative z-10 py-6 space-y-16 lg:space-y-32 text-gray-900">
       <div className="text-center space-y-10">
         <h3 className="font-light text-xl uppercase tracking-wider">
